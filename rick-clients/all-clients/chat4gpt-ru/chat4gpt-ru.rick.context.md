@@ -1,0 +1,1 @@
+/Users/ilyakrasinsky/workspace/vscode.projects/heroes-rickai-workspace/[rick.ai]/clients/all-clients/chat4gpt-ru/chat4gpt-ru.rick.context.md

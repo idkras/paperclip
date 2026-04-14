@@ -1,0 +1,1 @@
+/Users/ilyakrasinsky/workspace/vscode.projects/heroes-rickai-workspace/[rick.ai]/clients/all-clients/vipavenue-ru.backup.20251012_001433/vipavenue-adjust-multi-link summary.md

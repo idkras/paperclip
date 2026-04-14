@@ -1,0 +1,1 @@
+/Users/ilyakrasinsky/workspace/vscode.projects/heroes-rickai-workspace/[rick.ai]/clients/all-clients/mann-ivanov-ferber-ru/mann-ivanov-ferber-ru.rick.context.md

@@ -1,0 +1,1 @@
+/Users/ilyakrasinsky/workspace/vscode.projects/heroes-rickai-workspace/[rick.ai]/clients/all-clients/luxury-flowers-ru-1/luxury-flowers-ru-1.rick.context.md

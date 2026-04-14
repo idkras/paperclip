@@ -1,0 +1,1 @@
+/Users/ilyakrasinsky/workspace/vscode.projects/heroes-rickai-workspace/[rick.ai]/clients/all-clients/lavsit.ru/chat_HOC___Кейс_Lavsit_2668826465.md

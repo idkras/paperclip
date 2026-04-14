@@ -1,0 +1,1 @@
+/Users/ilyakrasinsky/workspace/vscode.projects/heroes-rickai-workspace/[rick.ai]/clients/all-clients/graph-tech-guitar-labs-ltd/graph-tech-guitar-labs-ltd.rick.context.md

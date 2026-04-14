@@ -1,0 +1,1 @@
+/Users/ilyakrasinsky/workspace/vscode.projects/heroes-rickai-workspace/[rick.ai]/clients/all-clients/maria25sc72-gmail-com/maria25sc72-gmail-com.rick.context.md

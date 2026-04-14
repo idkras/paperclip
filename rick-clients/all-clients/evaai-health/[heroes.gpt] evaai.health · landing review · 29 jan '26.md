@@ -1,0 +1,1 @@
+/Users/ilyakrasinsky/workspace/vscode.projects/heroes-rickai-workspace/[rick.ai]/clients/all-clients/evaai-health/[heroes.gpt] evaai.health · landing review · 29 jan '26.md

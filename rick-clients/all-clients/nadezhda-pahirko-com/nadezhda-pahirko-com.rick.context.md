@@ -1,0 +1,1 @@
+/Users/ilyakrasinsky/workspace/vscode.projects/heroes-rickai-workspace/[rick.ai]/clients/all-clients/nadezhda-pahirko-com/nadezhda-pahirko-com.rick.context.md

@@ -1,0 +1,1 @@
+/Users/ilyakrasinsky/workspace/vscode.projects/heroes-rickai-workspace/[rick.ai]/clients/all-clients/gazfond-pn-ru-1/gazfond-pn-ru-1.rick.context.md

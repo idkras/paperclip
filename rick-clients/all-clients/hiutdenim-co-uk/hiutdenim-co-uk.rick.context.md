@@ -1,0 +1,1 @@
+/Users/ilyakrasinsky/workspace/vscode.projects/heroes-rickai-workspace/[rick.ai]/clients/all-clients/hiutdenim-co-uk/hiutdenim-co-uk.rick.context.md

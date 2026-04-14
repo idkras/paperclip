@@ -1,0 +1,1 @@
+/Users/ilyakrasinsky/workspace/vscode.projects/heroes-rickai-workspace/[rick.ai]/clients/all-clients/practicum-yandex-ru-1/practicum-yandex-ru-1.rick.context.md

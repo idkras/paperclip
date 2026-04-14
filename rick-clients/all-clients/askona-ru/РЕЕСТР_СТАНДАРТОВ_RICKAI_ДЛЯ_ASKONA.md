@@ -1,0 +1,1 @@
+/Users/ilyakrasinsky/workspace/vscode.projects/heroes-rickai-workspace/[rick.ai]/clients/all-clients/askona-ru/РЕЕСТР_СТАНДАРТОВ_RICKAI_ДЛЯ_ASKONA.md

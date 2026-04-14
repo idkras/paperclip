@@ -1,0 +1,1 @@
+/Users/ilyakrasinsky/workspace/vscode.projects/heroes-rickai-workspace/[rick.ai]/clients/all-clients/vipavenue-ru.backup.20251011_235931/RICK_AI_STRUCTURE_GUIDE.md

@@ -1,0 +1,1 @@
+/Users/ilyakrasinsky/workspace/vscode.projects/heroes-rickai-workspace/[rick.ai]/clients/all-clients/marioberluchi-ru-2/marioberluchi-ru-2.rick.context.md

@@ -1,0 +1,1 @@
+/Users/ilyakrasinsky/workspace/vscode.projects/heroes-rickai-workspace/[rick.ai]/clients/all-clients/artefactoschool-online.backup.20260410_103958/artefactoschool-online.rick.context.md

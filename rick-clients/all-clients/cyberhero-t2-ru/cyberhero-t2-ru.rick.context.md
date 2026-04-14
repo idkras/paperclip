@@ -1,0 +1,1 @@
+/Users/ilyakrasinsky/workspace/vscode.projects/heroes-rickai-workspace/[rick.ai]/clients/all-clients/cyberhero-t2-ru/cyberhero-t2-ru.rick.context.md

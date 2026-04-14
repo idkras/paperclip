@@ -1,0 +1,1 @@
+/Users/ilyakrasinsky/workspace/vscode.projects/heroes-rickai-workspace/[rick.ai]/clients/all-clients/vipavenue-ru.backup.20251011_235931/vipavenue-rick-js-snippet transfer utm-tags.md

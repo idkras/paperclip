@@ -1,0 +1,1 @@
+/Users/ilyakrasinsky/workspace/vscode.projects/heroes-rickai-workspace/[rick.ai]/clients/all-clients/lavsit.ru/chat_Дмитрий_CPO_lavsit_Лавсит_7144008431.md

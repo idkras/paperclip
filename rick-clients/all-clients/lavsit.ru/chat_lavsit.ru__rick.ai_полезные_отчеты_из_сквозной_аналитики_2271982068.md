@@ -1,0 +1,1 @@
+/Users/ilyakrasinsky/workspace/vscode.projects/heroes-rickai-workspace/[rick.ai]/clients/all-clients/lavsit.ru/chat_lavsit.ru__rick.ai_полезные_отчеты_из_сквозной_аналитики_2271982068.md

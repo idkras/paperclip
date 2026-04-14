@@ -1,0 +1,1 @@
+/Users/ilyakrasinsky/workspace/vscode.projects/heroes-rickai-workspace/[rick.ai]/clients/all-clients/on-vashinvestor-ru/on-vashinvestor-ru.rick.context.md

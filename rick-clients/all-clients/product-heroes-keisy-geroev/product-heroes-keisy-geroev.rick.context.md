@@ -1,0 +1,1 @@
+/Users/ilyakrasinsky/workspace/vscode.projects/heroes-rickai-workspace/[rick.ai]/clients/all-clients/product-heroes-keisy-geroev/product-heroes-keisy-geroev.rick.context.md

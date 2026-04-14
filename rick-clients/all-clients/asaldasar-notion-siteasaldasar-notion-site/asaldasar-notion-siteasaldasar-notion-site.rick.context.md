@@ -1,0 +1,1 @@
+/Users/ilyakrasinsky/workspace/vscode.projects/heroes-rickai-workspace/[rick.ai]/clients/all-clients/asaldasar-notion-siteasaldasar-notion-site/asaldasar-notion-siteasaldasar-notion-site.rick.context.md

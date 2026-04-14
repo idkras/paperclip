@@ -1,0 +1,1 @@
+/Users/ilyakrasinsky/workspace/vscode.projects/heroes-rickai-workspace/[rick.ai]/clients/all-clients/tobeblossom-ru-1/tobeblossom-ru-1.rick.context.md

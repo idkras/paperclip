@@ -1,0 +1,1 @@
+/Users/ilyakrasinsky/workspace/vscode.projects/heroes-rickai-workspace/[rick.ai]/clients/all-clients/mirian-rutsatz51-gmail-com/mirian-rutsatz51-gmail-com.rick.context.md
