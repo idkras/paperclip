@@ -1,1 +1,0 @@
-/Users/ilyakrasinsky/workspace/vscode.projects/heroes-rickai-workspace/[rick.ai]/clients/all-clients/kapika-rukapika-ru-1/kapika-rukapika-ru-1.rick.context.md

@@ -1,1 +1,0 @@
-/Users/ilyakrasinsky/workspace/vscode.projects/heroes-rickai-workspace/[rick.ai]/clients/all-clients/new-test-company-ru/new-test-company-ru.rick.context.md

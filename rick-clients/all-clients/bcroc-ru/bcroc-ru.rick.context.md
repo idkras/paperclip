@@ -1,1 +1,0 @@
-/Users/ilyakrasinsky/workspace/vscode.projects/heroes-rickai-workspace/[rick.ai]/clients/all-clients/bcroc-ru/bcroc-ru.rick.context.md

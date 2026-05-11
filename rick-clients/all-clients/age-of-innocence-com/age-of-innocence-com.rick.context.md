@@ -1,1 +1,0 @@
-/Users/ilyakrasinsky/workspace/vscode.projects/heroes-rickai-workspace/[rick.ai]/clients/all-clients/age-of-innocence-com/age-of-innocence-com.rick.context.md

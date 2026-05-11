@@ -1,1 +1,0 @@
-/Users/ilyakrasinsky/workspace/vscode.projects/heroes-rickai-workspace/[rick.ai]/clients/all-clients/anty-dolphin-ru-com/anty-dolphin-ru-com.rick.context.md

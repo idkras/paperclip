@@ -1,1 +1,0 @@
-/Users/ilyakrasinsky/workspace/vscode.projects/heroes-rickai-workspace/[rick.ai]/clients/all-clients/astrodent-clinic-ru-1/astrodent-clinic-ru-1.rick.context.md

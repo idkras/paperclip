@@ -1,1 +1,0 @@
-/Users/ilyakrasinsky/workspace/vscode.projects/heroes-rickai-workspace/[rick.ai]/clients/all-clients/greatrvtrip-com.backup.20260410_103959/greatrvtrip.com.context.md

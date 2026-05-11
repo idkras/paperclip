@@ -1,1 +1,0 @@
-/Users/ilyakrasinsky/workspace/vscode.projects/heroes-rickai-workspace/[rick.ai]/clients/all-clients/dev-pay2wins-ru/dev-pay2wins-ru.rick.context.md

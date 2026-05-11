@@ -1,1 +1,0 @@
-/Users/ilyakrasinsky/workspace/vscode.projects/heroes-rickai-workspace/[rick.ai]/clients/all-clients/foodtech-consulting-ru/foodtech-consulting-ru.rick.context.md

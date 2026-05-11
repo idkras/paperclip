@@ -1,1 +1,0 @@
-/Users/ilyakrasinsky/workspace/vscode.projects/heroes-rickai-workspace/[rick.ai]/clients/all-clients/sferaplatform-ruprocess-mining-discovery-analiz-polzovatelskoy-aktivnosti/sferaplatform-ruprocess-mining-discovery-analiz-polzovatelskoy-aktivnosti.rick.context.md

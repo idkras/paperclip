@@ -1,0 +1,1 @@
+/Users/ilyakrasinsky/workspace/vscode.projects/heroes-rickai-workspace/[rick.ai]/clients/all-clients/ledohod-shop/ledohod-shop.context.md

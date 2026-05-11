@@ -1,1 +1,0 @@
-/Users/ilyakrasinsky/workspace/vscode.projects/heroes-rickai-workspace/[rick.ai]/clients/all-clients/mtsdengi-ru-karti-debet-mts-dengi/mtsdengi-ru-karti-debet-mts-dengi.rick.context.md

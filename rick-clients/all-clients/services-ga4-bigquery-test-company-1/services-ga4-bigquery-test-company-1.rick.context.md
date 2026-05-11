@@ -1,1 +1,0 @@
-/Users/ilyakrasinsky/workspace/vscode.projects/heroes-rickai-workspace/[rick.ai]/clients/all-clients/services-ga4-bigquery-test-company-1/services-ga4-bigquery-test-company-1.rick.context.md

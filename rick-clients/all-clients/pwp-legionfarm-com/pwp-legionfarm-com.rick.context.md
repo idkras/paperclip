@@ -1,1 +1,0 @@
-/Users/ilyakrasinsky/workspace/vscode.projects/heroes-rickai-workspace/[rick.ai]/clients/all-clients/pwp-legionfarm-com/pwp-legionfarm-com.rick.context.md

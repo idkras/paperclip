@@ -1,1 +1,0 @@
-/Users/ilyakrasinsky/workspace/vscode.projects/heroes-rickai-workspace/[rick.ai]/clients/all-clients/gymteam-ru.backup.20260410_103959/gymteam-ru.rick.context.md

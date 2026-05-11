@@ -1,1 +1,0 @@
-/Users/ilyakrasinsky/workspace/vscode.projects/heroes-rickai-workspace/[rick.ai]/clients/all-clients/bc17ead72a33-ngrok-free-app/bc17ead72a33-ngrok-free-app.rick.context.md

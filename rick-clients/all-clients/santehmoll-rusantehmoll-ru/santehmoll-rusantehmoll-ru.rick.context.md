@@ -1,1 +1,0 @@
-/Users/ilyakrasinsky/workspace/vscode.projects/heroes-rickai-workspace/[rick.ai]/clients/all-clients/santehmoll-rusantehmoll-ru/santehmoll-rusantehmoll-ru.rick.context.md

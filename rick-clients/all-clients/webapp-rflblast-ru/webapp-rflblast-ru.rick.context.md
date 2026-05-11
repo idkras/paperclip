@@ -1,1 +1,0 @@
-/Users/ilyakrasinsky/workspace/vscode.projects/heroes-rickai-workspace/[rick.ai]/clients/all-clients/webapp-rflblast-ru/webapp-rflblast-ru.rick.context.md

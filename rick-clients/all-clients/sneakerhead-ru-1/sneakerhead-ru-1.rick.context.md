@@ -1,1 +1,0 @@
-/Users/ilyakrasinsky/workspace/vscode.projects/heroes-rickai-workspace/[rick.ai]/clients/all-clients/sneakerhead-ru-1/sneakerhead-ru-1.rick.context.md

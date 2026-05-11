@@ -1,1 +1,0 @@
-/Users/ilyakrasinsky/workspace/vscode.projects/heroes-rickai-workspace/[rick.ai]/clients/all-clients/potolochnikoff-arh-ru/potolochnikoff-arh-ru.rick.context.md

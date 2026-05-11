@@ -1,0 +1,1 @@
+/Users/ilyakrasinsky/workspace/vscode.projects/heroes-rickai-workspace/[rick.ai]/clients/all-clients/skycop-com-1/skycop-com-1.context.md

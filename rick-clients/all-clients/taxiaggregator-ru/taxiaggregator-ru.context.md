@@ -1,0 +1,1 @@
+/Users/ilyakrasinsky/workspace/vscode.projects/heroes-rickai-workspace/[rick.ai]/clients/all-clients/taxiaggregator-ru/taxiaggregator-ru.context.md

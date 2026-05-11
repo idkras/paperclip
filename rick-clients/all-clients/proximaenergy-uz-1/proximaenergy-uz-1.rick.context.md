@@ -1,1 +1,0 @@
-/Users/ilyakrasinsky/workspace/vscode.projects/heroes-rickai-workspace/[rick.ai]/clients/all-clients/proximaenergy-uz-1/proximaenergy-uz-1.rick.context.md

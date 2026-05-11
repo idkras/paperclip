@@ -1,1 +1,0 @@
-/Users/ilyakrasinsky/workspace/vscode.projects/heroes-rickai-workspace/[rick.ai]/clients/all-clients/beglarianfabrics-com-1/beglarianfabrics-com-1.rick.context.md
